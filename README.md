@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 LOCAL
+
 # merge
 
 cc
